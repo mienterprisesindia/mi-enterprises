@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mienterprisesindia.github.io/mi-enterprises/sitemap.xml
